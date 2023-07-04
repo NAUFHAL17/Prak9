@@ -3,3 +3,4 @@ public interface UserLogin {
     public void doLogout(); 
     public boolean isLogin();
 }
+//test
